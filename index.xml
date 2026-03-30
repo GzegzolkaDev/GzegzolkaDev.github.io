@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on catloaf.pl</title>
+    <title>Home on gzegzolkadev.github.io</title>
     <link>https://gzegzolkadev.github.io/</link>
-    <description>Recent content in Home on catloaf.pl</description>
+    <description>Recent content in Home on gzegzolkadev.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 30 Mar 2026 09:54:07 +0200</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://gzegzolkadev.github.io/posts/update/</link>
       <pubDate>Mon, 30 Mar 2026 09:54:07 +0200</pubDate>
       <guid>https://gzegzolkadev.github.io/posts/update/</guid>
-      <description>So I revived this stupid website. I will try writing about my projects here.&#xA;I will soon renew catloaf.pl domain</description>
+      <description>So I revived this stupid website. I will try writing about my projects here.&#xA;I will probably not go back to catloaf.pl domain name as I am saving up for my projects.</description>
     </item>
   </channel>
 </rss>
